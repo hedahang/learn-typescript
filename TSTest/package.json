@@ -1,0 +1,16 @@
+{
+  "name": "TSTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "parcel ./src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jquery": "^3.5.13",
+    "parcel": "^2.0.0-rc.0"
+  }
+}
